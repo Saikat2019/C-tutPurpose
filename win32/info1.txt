@@ -1,0 +1,1 @@
+1.'{}' curly brackets are required when we are declaring a variable inside a switch statement

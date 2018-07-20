@@ -1,0 +1,3 @@
+2.while compiling never do ->complie and run....
+because it is error prone.. always do
+rebuild all->run
